@@ -1,10 +1,6 @@
 stage('Build') {
-  steps {
-    echo "BUILDING MY BOI"
-  }
+  echo "BUILDING MY BOI"
 }
 stage('Deploy') {
-  steps {
-    echo "DEPLOYIN MAH BOI"
-  }
+  echo "DEPLOYIN MAH BOI"
 }
