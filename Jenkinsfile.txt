@@ -1,6 +1,10 @@
 stage('Build') {
-  //BREH
+  steps {
+    echo "BUILDING MY BOI"
+  }
 }
 stage('Deploy') {
-  //WHAT BRO WHAT EVEN
+  steps {
+    echo "DEPLOYIN MAH BOI"
+  }
 }
